@@ -20,7 +20,7 @@ This repository contains the code and resources for a deep learning model design
     ```bash
     python -m venv venv
     source venv/bin/activate
-     
+    
 3. Install the required packages:
     ```bash
     pip install -r requirements.txt
