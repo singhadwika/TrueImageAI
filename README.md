@@ -8,6 +8,7 @@ This repository contains the code and resources for a deep learning model design
   - ResNet: 96.37%
   - Xception: 98.70%
   - MobileNet: 98.37%
+  - EfficientNet: 99.94% 
 
 ### Installation
 
