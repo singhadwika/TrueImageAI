@@ -1,7 +1,10 @@
 Python 
 PyTorch
-torchvision
 numpy
 pandas
 scikit-learn
 matplotlib
+torch
+torchvision
+timm
+tqdm
